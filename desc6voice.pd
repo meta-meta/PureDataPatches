@@ -3,8 +3,8 @@
 #X obj 351 95 inlet;
 #X obj 45 312 outlet;
 #X obj 313 290 outlet~;
-#X obj 152 152 desc12voice;
-#X obj 140 216 desc12voice;
+#X obj 152 152 desc3voice;
+#X obj 140 216 desc3voice;
 #X connect 0 0 4 0;
 #X connect 1 0 4 1;
 #X connect 1 0 5 1;
